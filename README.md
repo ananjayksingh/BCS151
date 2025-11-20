@@ -1,3 +1,3 @@
 # BCS151
-Programming for Problem Solving Lab
-https://aktu.ac.in/pdf/syllabus/Syllabus1819/btech/Programming%20for%20Problem%20Solving.pdf
+BCS101 / BCS201: PROGRAMMING FOR PROBLEM SOLVING [ Page 17]
+(https://aktu.ac.in/pdf/syllabus/syllabus2223/Syllabus_BTech_First_Yr_Common_other_than_AG_&_BT_effective_from_2022_23_R.pdf)
